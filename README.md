@@ -10,7 +10,8 @@
 ---
 
 ## 🏅 Certifications
-*(None yet — SQL Certificate coming soon)*
+[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/697a1d7ec80245bb95417d04a648fde2)
+
 
 ---
 
