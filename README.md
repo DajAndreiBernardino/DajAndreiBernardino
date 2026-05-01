@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c0a7fd43-185b-4301-9f91-f7d7f0bf3a7f" />  <!-- Banner -->
+<!-- Banner -->
 <h1 align="center">👋 Hi, I'm Daj Andrei G. Bernardino</h1>
 <p align="center">BSIT Undergraduate • Aspiring Developer & Cybersecurity Beginner</p>
 
